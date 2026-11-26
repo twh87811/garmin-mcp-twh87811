@@ -1,0 +1,10 @@
+{
+  "name": "garmin-health-coach",
+  "version": "0.1.0",
+  "description": "Coaching-style answers about your own Garmin data (sleep, workouts, recovery) using the Garmin MCP connector.",
+  "author": { "name": "yershalom" },
+  "homepage": "https://github.com/yershalom/claude-garmin-mcp",
+  "repository": "https://github.com/yershalom/claude-garmin-mcp",
+  "license": "MIT",
+  "keywords": ["garmin", "health", "fitness", "mcp", "coach"]
+}

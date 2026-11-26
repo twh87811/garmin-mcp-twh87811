@@ -1,0 +1,11 @@
+{
+  "name": "claude-garmin-mcp",
+  "owner": { "name": "yershalom" },
+  "plugins": [
+    {
+      "name": "garmin-health-coach",
+      "source": "./",
+      "description": "Coaching-style answers about your own Garmin data (sleep, workouts, recovery) using the Garmin MCP connector."
+    }
+  ]
+}

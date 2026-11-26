@@ -1,0 +1,13 @@
+# Copy to .dev.vars for local development:  cp .dev.vars.example .dev.vars
+# .dev.vars is git-ignored. Its values are used when you run `npm run dev`.
+
+# Garmin Connect personal API key: create one at https://connect.garmin.com/app/settings/personalApiToken
+GARMIN_API_KEY=
+
+# A GitHub OAuth app for local testing, with callback URL http://localhost:8787/callback
+# (use a separate app from production so each has the right callback).
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+
+# Your GitHub username: the only account allowed to sign in.
+ALLOWED_GITHUB_LOGIN=
